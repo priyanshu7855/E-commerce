@@ -44,8 +44,8 @@ A modern, feature-rich e-commerce store built with React, TypeScript, and Tailwi
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd elitestore
+   git clone https://github.com/priyanshu7855/E-commerce
+   cd E-commerce
    ```
 
 2. **Install dependencies**
